@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11241" started-at="2021-03-10T22:13:20 CST" finished-at="2021-03-10T22:13:31 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11241" started-at="2021-03-10T22:13:20 CST" finished-at="2021-03-10T22:13:31 CST">
+      <class name="test.AutomationTestng">
+        <test-method status="PASS" signature="browserCalling()[pri:0, instance:test.AutomationTestng@1f554b06]" name="browserCalling" is-config="true" duration-ms="3332" started-at="2021-03-10T22:13:20 CST" finished-at="2021-03-10T22:13:23 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserCalling -->
+        <test-method status="PASS" signature="toggleTest()[pri:0, instance:test.AutomationTestng@1f554b06]" name="toggleTest" duration-ms="5649" started-at="2021-03-10T22:13:23 CST" finished-at="2021-03-10T22:13:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toggleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AutomationTestng@1f554b06]" name="tearDown" is-config="true" duration-ms="2186" started-at="2021-03-10T22:13:29 CST" finished-at="2021-03-10T22:13:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AutomationTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
